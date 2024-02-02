@@ -1,22 +1,8 @@
-# AI HPC - Nvidia CUDA Programming
-This project provides in-depth tutorial articles and example codes for AI HPC programming over Nvidia GPU devices. Performance is the main focus. 
+### AI HPC with CUDA Repository
+The link to the repository is [here](https://github.com/project-ai101/ai-hpc-with-cuda)
 
-### CUDA Thread and Block
+### LLM Infrastructure Repository
+The link to the repository is [here](https://github.com/project-ai101/llm-infra)
 
-### CUDA Stream
-
-### cuBLAS
-cuBLAS stands for Cuda Basic Linear Algebra Subroutines (BLAS). It is highly optimized BLAS APIs for Nvidia GPUs. 
-It also leverages tensor cores for low and mix precision matrix multiplication. 
-For the detailed reference documents, one may follow this [link](https://developer.nvidia.com/cublas) to Nvidia website.
-
-- A Simple cuBLAS example on how to use cuBLAS APIs
-- Performance characterisitics of cuBLAS
-- Using cuBLAS with CUDA Stream for concurrency
-### tensorRT
-
-### NCCL
-
-### Nsight Compute
-
-### Nsight System
+### Embedded AI HPC with MLX
+This repository targets to embedded environments (Apple mobile devices, etc.) with many resource constraints. The link to the repository is [here](https://github.com/project-ai101/hpc-mlx)
